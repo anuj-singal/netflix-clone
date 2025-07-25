@@ -5,9 +5,8 @@ A simple and visually accurate clone of Netflix built using **HTML** and **CSS**
 ---
 
 ## 📸 Preview
-
-> Add your screenshot here  
-![Preview](./screenshot/netflix-clone.png)
+ 
+![Preview](./screenshot.png)
 
 ---
 
